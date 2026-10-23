@@ -81,7 +81,7 @@ source .venv/bin/activate
 
 ### Step 3: Install dependencies
 
-After renaming `requirements.txt.txt` to `requirements.txt`, run:
+Run:
 
 ```bash
 python -m pip install --upgrade pip
